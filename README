@@ -8,3 +8,9 @@ Test 4 : P133 第4题
 Test 7 : P133 第7题
 Leaf: this 的用法
 Arrays: 数组赋值
+
+
+LeetCode OJ
+1. Two Sum
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+You may assume that each input would have exactly one solution.
